@@ -25,7 +25,6 @@ Features:
 Supports automatic IP rotation and sticky sessions. Connection success rate is 99.95%. Suitable for scenarios requiring frequent IP changes, such as web scraping, SEO monitoring, and ad verification.
 
 Pricing:
-
 Starts at $0.7/GB, billed by actual traffic consumed
 
 Multiple packages from 5GB to 5TB, traffic never expires (no time limit)
@@ -44,7 +43,6 @@ Features:
 Unlimited traffic, supports high concurrency. Suitable for continuous automated tasks, large‑scale crawling, and high‑frequency multi‑account operations. Billed by usage time, no worries about exceeding traffic limits.
 
 Pricing:
-
 Starts at $10/hour, with hourly, daily, and monthly packages available
 
 Completely unlimited traffic, ideal for long‑running, high‑frequency automation tasks
@@ -61,7 +59,6 @@ Features:
 Long‑term fixed residential IPs from real ISPs, covering 30+ countries and regions. IPs can be kept for a long time or even permanently. Suitable for scenarios that require a fixed network identity, such as e‑commerce store management and ad account maintenance.
 
 Pricing:
-
 Starts at $2/IP, billed per individual IP
 
 Covers 30+ countries and regions including the US, UK, Germany, Japan, etc.
