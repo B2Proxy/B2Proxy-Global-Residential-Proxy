@@ -6,3 +6,5 @@ theme:
 
 nav:
   - 首页: index.md
+  - 博客:
+    - 独立站页面版本: blog/independent-store-page-versions.md
