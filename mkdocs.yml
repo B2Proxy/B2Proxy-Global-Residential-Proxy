@@ -8,3 +8,4 @@ nav:
   - 首页: index.md
   - 博客:
     - 独立站页面版本: blog/independent-store-page-versions.md
+    - 智能DNS解析与跨区域问题: blog/how-do-proxy-ips-ensure-correct-dns-resolution-across-regions.md
