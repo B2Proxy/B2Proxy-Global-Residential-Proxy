@@ -9,3 +9,4 @@ nav:
   - 博客:
     - 独立站页面版本: blog/independent-store-page-versions.md
     - 智能DNS解析与跨区域问题: blog/how-do-proxy-ips-ensure-correct-dns-resolution-across-regions.md
+    - 自动化价格监控架构: blog/automated-price-monitoring-architecture.md
