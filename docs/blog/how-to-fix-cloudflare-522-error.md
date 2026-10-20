@@ -156,4 +156,4 @@ A: Yes, but **they must include backoff and jitter, and the retry budget should 
 
 ---
 
-*This article was written by the B2Proxy Technical Content Team. B2Proxy provides residential、static and  unlimited proxies with routing granularity down to geographic regions and ASNs, helping you quickly switch to healthy egress points during origin timeout scenarios.*
+*This article was written by the B2Proxy Technical Content Team. [B2Proxy](https://www.b2proxy.com/?utm_t=1&utm_i=159) provides residential、static and  unlimited proxies with routing granularity down to geographic regions and ASNs, helping you quickly switch to healthy egress points during origin timeout scenarios.*
