@@ -10,3 +10,4 @@ nav:
     - 独立站页面版本: blog/independent-store-page-versions.md
     - 智能DNS解析与跨区域问题: blog/how-do-proxy-ips-ensure-correct-dns-resolution-across-regions.md
     - 自动化价格监控架构: blog/automated-price-monitoring-architecture.md
+    - 修复 Cloudflare 522 错误指南: blog/how-to-fix-cloudflare-522-error.md
