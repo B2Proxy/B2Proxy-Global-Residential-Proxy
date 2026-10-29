@@ -14,3 +14,4 @@ nav:
     - 从文本到视觉：AI时代的图片数据聚合与品牌保护: blog/ai-image-data-aggregation-and-brand-protection.md
     - 跨国API对接与409错误排障: blog/409-errors-cross-border-api.md
     - 实时流媒体为何需要专用UDP代理: blog/why-use-udp-proxies-for-real-time-streaming.md
+    - HTTP 405 Method Not Allowed 报错排查与修复指南: blog/http-405-method-not-allowed-guide.md
