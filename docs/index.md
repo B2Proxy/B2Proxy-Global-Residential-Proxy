@@ -1,11 +1,11 @@
-# 我的技术文档
+# B2Proxy Technical Documentation
 
-欢迎来到我的技术文档。
+Welcome to the B2Proxy Technical Documentation.
 
-## 简介
+## Introduction
 
-这里是项目的技术文档。
+This is the technical documentation for B2Proxy.
 
-## 快速开始
+## Quick Start
 
-请参考后续章节。
+Please refer to the subsequent chapters.
