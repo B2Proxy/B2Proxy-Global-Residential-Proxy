@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://b2proxy.github.io/B2Proxy-Global-Residential-Proxy/sitemap.xml
