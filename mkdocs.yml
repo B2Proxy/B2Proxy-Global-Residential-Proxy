@@ -1,4 +1,5 @@
 site_name: B2Proxy Technical Docs
+site_url: https://b2proxy.github.io/B2Proxy-Global-Residential-Proxy/
 
 theme:
   name: material
@@ -7,11 +8,11 @@ theme:
 nav:
   - Home: index.md
   - Blog:
-    - Independent Store Page Versions: blog/independent-store-page-versions.md
-    - Smart DNS Resolution Across Regions: blog/how-do-proxy-ips-ensure-correct-dns-resolution-across-regions.md
-    - Automated Price Monitoring Architecture: blog/automated-price-monitoring-architecture.md
-    - How to Fix Cloudflare 522 Error: blog/how-to-fix-cloudflare-522-error.md
-    - Image Data Aggregation & Brand Protection in AI Era: blog/ai-image-data-aggregation-and-brand-protection.md
-    - Cross-Border API Integration & 409 Errors: blog/409-errors-cross-border-api.md
-    - Why Real-Time Streaming Needs UDP Proxies: blog/why-use-udp-proxies-for-real-time-streaming.md
-    - HTTP 405 Method Not Allowed Guide: blog/http-405-method-not-allowed-guide.md
+      - Independent Store Page Versions: blog/independent-store-page-versions.md
+      - Smart DNS Resolution Across Regions: blog/how-do-proxy-ips-ensure-correct-dns-resolution-across-regions.md
+      - Automated Price Monitoring Architecture: blog/automated-price-monitoring-architecture.md
+      - How to Fix Cloudflare 522 Error: blog/how-to-fix-cloudflare-522-error.md
+      - Image Data Aggregation & Brand Protection in AI Era: blog/ai-image-data-aggregation-and-brand-protection.md
+      - Cross-Border API Integration & 409 Errors: blog/409-errors-cross-border-api.md
+      - Why Real-Time Streaming Needs UDP Proxies: blog/why-use-udp-proxies-for-real-time-streaming.md
+      - HTTP 405 Method Not Allowed Guide: blog/http-405-method-not-allowed-guide.md
